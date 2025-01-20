@@ -85,7 +85,7 @@ El proyecto utiliza JWT para la autenticación. Para acceder a los endpoints pro
      "password": "123456"
    }
    ```
- ![Vista API](F1.png)
+ ![Vista API](F1.PNG)
 
 2. Obtén el token JWT de la respuesta y utilízalo en el encabezado `Authorization` para futuras peticiones:
    ```
@@ -93,16 +93,16 @@ El proyecto utiliza JWT para la autenticación. Para acceder a los endpoints pro
    ```
 
 ## Insertar
-![Vista API](F2.png)
+![Vista API](F2.PNG)
 ## Ver Lista
-![Vista API](F3.png)
+![Vista API](F3.PNG)
 
 ## Ver uno
-![Vista API](F4.png)
+![Vista API](F4.PNG)
 ## Actualizar
-![Vista API](F5.png)
+![Vista API](F5.PNG)
 
 ## Eliminar
 
-![Vista API](F5.png)
+![Vista API](F5.PNG)
 
